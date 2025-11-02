@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm David A.</h1>
 
 # 💫 About Me:
-I am a second-year Software engineering student at Sheffield Hallam University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a third-year Software engineering student at Sheffield Hallam University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 

@@ -5,7 +5,7 @@ Full-stack software engineer at Sheffield Hallam University (graduating Nov 2026
 
 ## 🚀 What I'm Up To
 
-- 🏗️ Building a multi-tenant complaint management platform with Clean Architecture, Keycloak OIDC, and 31 automated tests across 4 layers
+- 🏗️ Building a multi-tenant complaint management platform with Clean Architecture
 - 🎮 Exploring game development with C# and Unity
 
 Check out my [coding portfolio!](COMING-SOON)
